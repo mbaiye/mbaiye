@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moyosore Baiye
 - 👀 I’m interested in Azure/AWS/DevOps/Solution Architecting
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently working as a DevOps Engineer
 - 💞️ I’m looking to collaborate on DevOps and Solution Architecting
 - 📫 How to reach me moyosorebaiye@gmail.com, +2347064379501
 
